@@ -1,2 +1,2 @@
 # Slither
-A simple 2d game 1 player game using pygame 
+A simple 2d 1player game using pygame 
